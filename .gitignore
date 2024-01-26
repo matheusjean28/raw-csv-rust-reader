@@ -1,0 +1,16 @@
+# compiller
+/target/
+
+# Config
+Cargo.lock
+
+# temp foles
+*.swp
+*.bak
+
+# system generate files
+.DS_Store
+Thumbs.db
+
+
+#review files after a temp coding, 
